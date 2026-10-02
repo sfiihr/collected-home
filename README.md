@@ -21,5 +21,5 @@ Supporting content for this project can be found in the [docs folder on my GitHu
 
 - Project Scope [scope.md](https://github.com/sfiihr/collected-home/blob/main/docs/scope.md)
 - Project Plan [plan.md](https://github.com/sfiihr/collected-home/blob/main/docs/plan.md)
-- Project Retrospective [retrospective.md]()
+- Project Retrospective [retrospective.md](https://github.com/sfiihr/collected-home/blob/main/docs/retrospective.md)
 
